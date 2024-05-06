@@ -1,4 +1,4 @@
-# p4a_lottie_demo
+# p4a_lottie_demoTest
 
 This repository contains an example python-for-android application using the `android.presplash_lottie` option of buildozer, allowing to display  short animation instead of a static image while the application starts.
 
